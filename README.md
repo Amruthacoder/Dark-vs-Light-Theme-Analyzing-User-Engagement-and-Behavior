@@ -1,10 +1,10 @@
-![Alt Text]([https://your-image-url.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBbzh2Ew1_lzd2M_LEhzrpZ816d4VTfbRIw&s))
+![Alt Text](https://media.emailonacid.com/wp-content/uploads/2020/10/2020-DarkMode-vs-LightMode_Blog.png)
 
 In this repositry I have worked on a awebsite performance data to understand the user behavior based on the Dark and Light theme of website.
 
 I have conducted Hypothesis testing on the data and two-paired T-test.
 
-Data Description:
+# Data Description:
 
 Theme: dark or light
 
