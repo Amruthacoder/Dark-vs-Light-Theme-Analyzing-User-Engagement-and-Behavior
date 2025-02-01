@@ -1,3 +1,5 @@
+![Alt Text]([https://your-image-url.com/image.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBbzh2Ew1_lzd2M_LEhzrpZ816d4VTfbRIw&s))
+
 In this repositry I have worked on a awebsite performance data to understand the user behavior based on the Dark and Light theme of website.
 
 I have conducted Hypothesis testing on the data and two-paired T-test.
